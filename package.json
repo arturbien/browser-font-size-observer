@@ -1,9 +1,7 @@
 {
   "name": "browser-font-size-observer",
   "version": "0.1.0",
-  "authors": [
-    "Artur Bień"
-  ],
+  "author": "Artur Bień <artur.bien@gmail.com> (https://www.linkedin.com/in/arturbien/)",
   "description": "Detect and observe changes to the browser font size setting",
   "keywords": [
     "detect",
@@ -33,7 +31,6 @@
     "build": "webpack",
     "prepare": "webpack"
   },
-  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.2.5",
