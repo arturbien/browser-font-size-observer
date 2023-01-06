@@ -1,4 +1,8 @@
 # browser-font-size-observer
+<p>
+  <a href="https://www.npmjs.com/package/browser-font-size-observer"><img src="https://flat.badgen.net/npm/v/browser-font-size-observer" alt="browser-font-size-observer version" /></a>
+  <a href="https://www.npmjs.com/package/browser-font-size-observer"><img src="https://flat.badgen.net/npm/license/browser-font-size-observer" alt="browser-font-size-observer license" /></a>
+</p>
 
 A library that tracks the browser's font size setting.
 
