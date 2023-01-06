@@ -6,24 +6,24 @@ A library that tracks the browser's font size setting.
 
 To install, run:
 
-`bash
+```sh
 npm install browser-font-size-observer
-`
+```
 
 ## Usage
 
-`javascript
+```js
 import BrowserFontSizeObserver from "browser-font-size-observer";
 
 const observer = new BrowserFontSizeObserver((state) => {
-console.log(state);
+  console.log(state);
 });
 
 console.log(observer.state); // { browserFontSize: 16, ratio: 1 }
 
 // To stop observing
 observer.disconnect();
-`
+```
 
 ## Use Case
 
