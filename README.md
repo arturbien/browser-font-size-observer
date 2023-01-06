@@ -7,6 +7,10 @@ A library that tracks the browser's font size setting.
 To install, run:
 
 ```sh
+# yarn
+yarn add browser-font-size-observer
+
+# npm
 npm install browser-font-size-observer
 ```
 
