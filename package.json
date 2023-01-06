@@ -14,6 +14,16 @@
   "repository": "git@github.com:arturbien/browser-font-size-observer.git",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/react95"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/arturbien"
+    }
+  ],
   "publishConfig": {
     "access": "public"
   },
