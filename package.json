@@ -37,6 +37,7 @@
     "@types/jest": "^29.2.5",
     "@types/jsdom": "^20.0.1",
     "jest": "^29.3.1",
+    "jest-environment-jsdom": "^29.3.1",
     "jsdom": "^20.0.3",
     "ts-jest": "^29.0.3",
     "ts-loader": "^9.3.1",
@@ -44,8 +45,5 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.7.2"
-  },
-  "dependencies": {
-    "jest-environment-jsdom": "^29.3.1"
-  }
+  } 
 }
